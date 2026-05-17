@@ -1,7 +1,7 @@
 using Stateless;
 
 namespace BugPro;
-
+  
 // Состояния бага
 public enum BugState
 {
